@@ -1,0 +1,131 @@
+[
+    {
+        "group_name": "area",
+        "title": "Ареал произрастания",
+        "question_pairs": [
+            {
+                "question": "Где произрастает?",
+                "answer": "Произрастает в <placeholder>. "
+            },
+            {
+                "question": "Где встречается?",
+                "answer": "Встречается в <placeholder>. "
+            },
+            {
+                "question": "В каких местах встречается?",
+                "answer": "Встречается в <placeholder>. "
+            },
+            {
+                "question": "Где распространено?",
+                "answer": "Распространен в <placeholder>. "
+            }
+        ],
+        "cossim_pairs": []
+    },
+    {
+        "group_name": "soil",
+        "title": "Требования к почве",
+        "question_pairs": [
+            {
+                "question": "На каких почвах может возделываться?",
+                "answer": "Может возделываться на <placeholder> почвах. "
+            },
+            {
+                "question": "На каких почвах растет хорошо?",
+                "answer": "Растет хорошо на <placeholder>. "
+            },
+            {
+                "question": "Требователен ли к почвам?",
+                "answer": "<placeholder>"
+            },
+            {
+                "question": "Какие почвы предпочитает?",
+                "answer": "Предпочитает <placeholder> почвы. "
+            }
+        ],
+        "cossim_pairs": [
+            {
+                "question": "Растение требовательно к почве"
+            },
+            {
+                "question": "Растение нетребовательно к почве"
+            },
+            {
+                "question": "Растение не требовательно к почве"
+            }
+        ]
+    },
+    {
+        "group_name": "timings",
+        "title": "Периодичность",
+        "question_pairs": [
+            {
+                "question": "Какие периоды посева?",
+                "answer": ""
+            },
+            {
+                "question": "Какие периоды цветения?",
+                "answer": ""
+            },
+            {
+                "question": "Когда цветет?",
+                "answer": "Цветет в <placeholder>. "
+            },
+            {
+                "question": "Сколько длится вегетационный период?",
+                "answer": "Вегетационный период длится <placeholder>"
+            },
+            {
+                "question": "Какой период сбора урожая?",
+                "answer": ""
+            },
+            {
+                "question": "Когда появляются всходы?",
+                "answer": "Всходы появляются <placeholder>. "
+            },
+            {
+                "question": "Когда созревают плоды?",
+                "answer": "Плоды созревают <placeholder>. "
+            }
+        ],
+        "cossim_pairs": []
+    },
+    {
+        "group_name": "chemicals",
+        "title": "Химический состав",
+        "question_pairs": [
+            {
+                "question": "Что содержится в нем?",
+                "answer": "В растении содержится <placeholder>. "
+            },
+            {
+                "question": "Какие вещества содержит?",
+                "answer": "Содержит <placeholder>. "
+            }
+        ],
+        "cossim_pairs": []
+    },
+    {
+        "group_name": "medicine",
+        "title": "Фармакологическое применение",
+        "question_pairs": [
+            {
+                "question": "Какая часть применяется в медицине?",
+                "answer": "В медицине применяется <placeholder>. "
+            },
+            {
+                "question": "Что используют в медицине?",
+                "answer": "В медицине используют <placeholder>. "
+            },
+            {
+                "question": "Как применяется в медицине?",
+                "answer": "<placeholder> имеет медицинское применение. "
+            },
+            {
+                "question": "Какое воздействие оказывает?",
+                "answer": "Оказывает <placeholder>. "
+            }
+        ],
+        "cossim_pairs": []
+    }
+]
